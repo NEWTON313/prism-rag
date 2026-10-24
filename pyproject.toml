@@ -1,0 +1,30 @@
+[project]
+name = "prism-rag"
+version = "1.0.0"
+description = "Prism — laboratoire RAG avancé (cours IAMaestro : Advanced RAG & Bases de Données Vectorielles)"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+  "pydantic>=2.14",
+  "anthropic>=1.13",
+  "fastembed>=0.7",      # embeddings et re-ranker locaux, sans clé API
+  "networkx>=3.4",       # GraphRAG
+  "pillow>=10",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+ann = ["faiss-cpu>=1.9"]
+qdrant = ["qdrant-client>=1.19"]
+# ragas 0.4.3 importe un module retiré de langchain-community 0.4 : on épingle la version antérieure
+ragas = ["ragas==0.4.3", "langchain-community<0.4"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["prism"]
+
+[tool.pytest.ini_options]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::UserWarning"]

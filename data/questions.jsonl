@@ -1,0 +1,45 @@
+{"id": "q01", "type": "factuelle", "question": "Combien de jours ai-je pour retourner un article ?", "relevant": ["ret-01"], "answer": "30 jours calendaires après la livraison."}
+{"id": "q02", "type": "factuelle", "question": "Combien coûte la livraison express ?", "relevant": ["liv-02"], "answer": "9,90 euros."}
+{"id": "q03", "type": "factuelle", "question": "Quelle est la durée de garantie de la lampe Halo ?", "relevant": ["gar-04"], "answer": "3 ans."}
+{"id": "q04", "type": "factuelle", "question": "Combien de temps faut-il pour être remboursé après un retour ?", "relevant": ["ret-04"], "answer": "5 jours ouvrés après réception et contrôle de l'article."}
+{"id": "q05", "type": "factuelle", "question": "Quels moyens de paiement sont acceptés ?", "relevant": ["pai-01"], "answer": "Carte bancaire, PayPal et virement pour les entreprises."}
+{"id": "q06", "type": "factuelle", "question": "Combien de temps un colis reste-t-il en point relais ?", "relevant": ["liv-06"], "answer": "14 jours."}
+{"id": "q07", "type": "factuelle", "question": "Quelle est la charge maximale de la chaise Axis ?", "relevant": ["chair-01"], "answer": "130 kg."}
+{"id": "q08", "type": "factuelle", "question": "Combien de points faut-il pour un bon de 5 euros ?", "relevant": ["fid-01"], "answer": "100 points."}
+{"id": "q09", "type": "factuelle", "question": "Dans quels pays livrez-vous en dehors de la France ?", "relevant": ["liv-03"], "answer": "Belgique, Luxembourg, Suisse et Allemagne."}
+{"id": "q10", "type": "factuelle", "question": "Quelle remise pour une entreprise qui commande 5 000 euros par an ?", "relevant": ["pro-01"], "answer": "10 %."}
+{"id": "q11", "type": "reformulation", "question": "J'ai changé d'avis, est-ce que je peux renvoyer ma commande ?", "relevant": ["ret-01", "ret-03"], "answer": "Oui, sous 30 jours, avec 20 % de frais de remise en stock."}
+{"id": "q12", "type": "reformulation", "question": "Mon café ne reste plus chaud depuis que j'ai mis la tasse dans la machine à laver la vaisselle, c'est couvert ?", "relevant": ["gar-02", "mug-01"], "answer": "Non, la perte d'isolation après un lave-vaisselle n'est pas couverte."}
+{"id": "q13", "type": "reformulation", "question": "Le carton est arrivé abîmé, que dois-je faire ?", "relevant": ["liv-05"], "answer": "Émettre des réserves auprès du transporteur et nous contacter sous 48 heures avec des photos."}
+{"id": "q14", "type": "reformulation", "question": "Comment récupérer l'accès à mon compte si j'ai perdu mes identifiants ?", "relevant": ["cpt-01"], "answer": "Cliquer sur Mot de passe oublié pour recevoir un lien valable 30 minutes."}
+{"id": "q15", "type": "reformulation", "question": "Est-ce que je peux me débarrasser de mon vieux bureau quand vous livrez le nouveau ?", "relevant": ["eco-01"], "answer": "Oui, avec le service gratuit Reprise 1 pour 1."}
+{"id": "q16", "type": "reformulation", "question": "Je veux la même chaise mais dans une autre couleur, comment faire ?", "relevant": ["ret-06"], "answer": "Retourner l'article pour remboursement et passer une nouvelle commande."}
+{"id": "q17", "type": "reformulation", "question": "Comment bien régler mon siège pour ne pas avoir mal au dos ?", "relevant": ["chair-01"], "answer": "Hauteur, puis profondeur d'assise, puis soutien lombaire."}
+{"id": "q18", "type": "reformulation", "question": "Comment effacer définitivement toutes mes données chez vous ?", "relevant": ["cpt-02"], "answer": "Supprimer le compte depuis l'espace client ; effacement sous 30 jours, sauf factures."}
+{"id": "q19", "type": "reformulation", "question": "La lumière de ma lampe de bureau n'arrête pas de clignoter", "relevant": ["lamp-02"], "answer": "La débrancher trente secondes puis la rebrancher."}
+{"id": "q20", "type": "reformulation", "question": "Pourquoi est-ce que je dois payer pour renvoyer un produit qui me plaît pas ?", "relevant": ["ret-03"], "answer": "Des frais de remise en stock de 20 % s'appliquent en cas de changement d'avis."}
+{"id": "q21", "type": "lexicale", "question": "Que signifie le code E02 ?", "relevant": ["desk-02"], "answer": "Un obstacle détecté sous le plateau par le système anti-collision."}
+{"id": "q22", "type": "lexicale", "question": "Erreur E01 sur mon bureau", "relevant": ["desk-02"], "answer": "Surchauffe des moteurs : attendre 18 minutes."}
+{"id": "q23", "type": "lexicale", "question": "CASTER-M compatible avec quelle chaise ?", "relevant": ["caster-01", "chair-02"], "answer": "La chaise Axis CHAIR-7."}
+{"id": "q24", "type": "lexicale", "question": "Garantie DESK-2 moteurs", "relevant": ["gar-06"], "answer": "2 ans sur les moteurs."}
+{"id": "q25", "type": "lexicale", "question": "Adresse e-mail no-reply des réinitialisations", "relevant": ["cpt-01"], "answer": "no-reply@nimbus-shop.fr"}
+{"id": "q26", "type": "lexicale", "question": "Code E05 bureau Lift", "relevant": ["desk-02", "desk-03"], "answer": "Déséquilibre entre les moteurs : lancer une réinitialisation."}
+{"id": "q27", "type": "lexicale", "question": "Certification BIFMA de quel fabricant ?", "relevant": ["fourn-01"], "answer": "Ergoform."}
+{"id": "q28", "type": "lexicale", "question": "MUG-01 contenance", "relevant": ["mug-01"], "answer": "350 millilitres."}
+{"id": "q29", "type": "anglais", "question": "How long do I have to return an item?", "relevant": ["ret-01"], "answer": "30 days after delivery."}
+{"id": "q30", "type": "anglais", "question": "Do you ship to Switzerland and are there customs fees?", "relevant": ["liv-03"], "answer": "Yes, and customs duties may be charged on delivery."}
+{"id": "q31", "type": "anglais", "question": "How do I reset my standing desk?", "relevant": ["desk-03"], "answer": "Hold the up and down buttons for five seconds until the beep."}
+{"id": "q32", "type": "anglais", "question": "Is the warranty still valid if I dropped the lamp?", "relevant": ["gar-02", "gar-04"], "answer": "No, damage from a drop is not covered."}
+{"id": "q33", "type": "anglais", "question": "Can I pay in three installments?", "relevant": ["pai-01"], "answer": "Yes, from 150 euros by bank card."}
+{"id": "q34", "type": "anglais", "question": "Who manufactures the ergonomic chair?", "relevant": ["fourn-01"], "answer": "Ergoform, in Germany."}
+{"id": "q35", "type": "multi", "question": "Ma chaise Axis achetée il y a 4 ans a un problème de vérin : est-ce encore garanti et comment le faire réparer ?", "relevant": ["gar-05", "gar-03"], "answer": "Oui, le vérin est garanti 10 ans ; contacter le support avec le numéro de commande."}
+{"id": "q36", "type": "multi", "question": "Je renvoie un bureau parce que j'ai changé d'avis : combien vais-je payer au total ?", "relevant": ["ret-05", "ret-03"], "answer": "29 euros d'enlèvement et 20 % de frais de remise en stock."}
+{"id": "q37", "type": "multi", "question": "Quel est le fournisseur du bureau Lift et combien de temps ses moteurs sont-ils garantis ?", "relevant": ["fourn-01", "gar-06"], "answer": "Ergoform ; les moteurs sont garantis 2 ans."}
+{"id": "q38", "type": "multi", "question": "Je veux commander une chaise pour mon bureau en Belgique, est-ce possible ?", "relevant": ["liv-03"], "answer": "Non, les meubles ne sont livrés qu'en France métropolitaine."}
+{"id": "q39", "type": "multi", "question": "Compare la garantie de la lampe Halo et celle de la chaise Axis.", "relevant": ["gar-04", "gar-05"], "answer": "Lampe : 3 ans ; chaise : 5 ans structure, 2 ans maille, 10 ans vérin."}
+{"id": "q40", "type": "multi", "question": "Si je retourne toute ma commande, est-ce que les frais de livraison me sont rendus et sous quel délai ?", "relevant": ["ret-04"], "answer": "Oui, avec le remboursement, émis sous 5 jours ouvrés après réception."}
+{"id": "q41", "type": "hors_base", "question": "Vendez-vous des imprimantes 3D ?", "relevant": [], "answer": null}
+{"id": "q42", "type": "hors_base", "question": "Quels sont les horaires d'ouverture de votre magasin de Paris ?", "relevant": [], "answer": null}
+{"id": "q43", "type": "hors_base", "question": "Proposez-vous un financement sur 24 mois ?", "relevant": [], "answer": null}
+{"id": "q44", "type": "hors_base", "question": "Quelle est la recette du gâteau au chocolat ?", "relevant": [], "answer": null}
+{"id": "q45", "type": "hors_base", "question": "Comment devenir fournisseur de Nimbus ?", "relevant": [], "answer": null}
